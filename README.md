@@ -1,4 +1,5 @@
-Introduction
+
+Introduction: A small-medium business software administration
 ============
 This system is based on the AdminLTE.io template regards the front-end side.
 
