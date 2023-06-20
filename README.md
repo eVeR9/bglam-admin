@@ -1,115 +1,30 @@
 Introduction
 ============
+This system is based on the AdminLTE.io template regards the front-end side.
 
-[![Build Status](https://img.shields.io/travis/ColorlibHQ/AdminLTE/master.svg)](https://travis-ci.org/ColorlibHQ/AdminLTE)
-[![npm version](https://img.shields.io/npm/v/admin-lte/latest.svg)](https://www.npmjs.com/package/admin-lte)
-[![Packagist](https://img.shields.io/packagist/v/almasaeed2010/adminlte.svg)](https://packagist.org/packages/almasaeed2010/adminlte)
-[![CDNJS](https://img.shields.io/cdnjs/v/admin-lte.svg)](https://cdnjs.com/libraries/admin-lte)
+Login:
+![image](https://github.com/eVeR9/bglam-admin/assets/69314655/d3e7ce15-fc8a-406a-88d7-255043a7824f)
 
-**AdminLTE** is a fully responsive administration template. Based on **[Bootstrap 4](https://getbootstrap.com)** framework.
-Highly customizable and easy to use. Fits many screen resolutions from small mobile devices to large desktops.
+Start:
+![image](https://github.com/eVeR9/bglam-admin/assets/69314655/cd4516b2-c11f-40a4-a3d9-6ebf782a7f76)
 
-**Preview on [AdminLTE.io](https://adminlte.io/themes/v3)**
+Statistics:
+![image](https://github.com/eVeR9/bglam-admin/assets/69314655/a2583517-e707-40d9-8ab6-9092ef084c34)
 
-Looking for Premium Templates?
-------------------------------
-AdminLTE.io just opened a new premium templates page. Hand picked to insure the best quality and the most affordable
-prices. Visit https://adminlte.io/premium for more information.
+Picking:
+![image](https://github.com/eVeR9/bglam-admin/assets/69314655/506f49b6-632f-4369-a05c-876854b4278e)
 
-!["AdminLTE Presentation"](https://adminlte.io/AdminLTE3.png "AdminLTE Presentation")
+Order:
+![image](https://github.com/eVeR9/bglam-admin/assets/69314655/bd8cf50f-2c93-4d77-903b-1f544bc89707)
 
-**AdminLTE** has been carefully coded with clear comments in all of its JS, SCSS and HTML files.
-SCSS has been used to increase code customizability.
+Confirm Order:
+![image](https://github.com/eVeR9/bglam-admin/assets/69314655/20548df7-5ebd-488a-9b07-971472ccaf2a)
 
-Installation
-------------
-There are multiple ways to install AdminLTE.
+Order Processed:
+![image](https://github.com/eVeR9/bglam-admin/assets/69314655/e28f2b10-3cbb-4ef5-b9ad-1f875220962d)
 
-#### Download:
+Inventory:
+![image](https://github.com/eVeR9/bglam-admin/assets/69314655/918dcc65-1e8a-4b9f-8998-f426157c8457)
 
-Download from [Github releases](https://github.com/ColorlibHQ/AdminLTE/releases).
 
-#### Using The Command Line:
 
-__Via NPM__
-```bash
-npm install admin-lte@^3.0 --save
-```
-
-__Via Yarn__
-```bash
-yarn add admin-lte@^3.0
-```
-
-__Via Composer__
-```bash
-composer require "almasaeed2010/adminlte=~3.0"
-```
-
-__Via Git__
-- Clone to your machine
-```
-git clone https://github.com/ColorlibHQ/AdminLTE.git
-```
-
-Documentation
--------------
-Visit the [online documentation](https://adminlte.io/docs/3.0/) for the most
-updated guide. Information will be added on a weekly basis.
-
-Browser Support
----------------
-- IE 10+
-- Firefox (latest)
-- Chrome (latest)
-- Safari (latest)
-- Opera (latest)
-
-Contribution
-------------
-Contribution are always **welcome and recommended**! Here is how:
-
-- Fork the repository ([here is the guide](https://help.github.com/articles/fork-a-repo/)).
-- Clone to your machine ```git clone https://github.com/YOUR_USERNAME/AdminLTE.git```
-- Create a new branch
-- Make your changes
-- Create a pull request
-
-#### Compile dist files
-To compile the dist files you need nodejs/npm, clone/download the repo then:
-
-1. `npm install` (install npm deps)
-2. _Optional:_ `npm run dev` (developer mode, autocompile with browsersync support for live demo)
-3. `npm run production` (compile css/js files)
-
-#### Contribution Requirements:
-- When you contribute, you agree to give a non-exclusive license to AdminLTE.io to use that contribution in any context as we (AdminLTE.io) see appropriate.
-- If you use content provided by another party, it must be appropriately licensed using an [open source](http://opensource.org/licenses) license.
-- Contributions are only accepted through Github pull requests.
-- Finally, contributed code must work in all supported browsers (see above for browser support).
-
-License
--------
-AdminLTE is an open source project by [AdminLTE.io](https://adminlte.io) that is licensed under [MIT](http://opensource.org/licenses/MIT). AdminLTE.io
-reserves the right to change the license of future releases.
-
-Legacy Releases
----------------
-- [AdminLTE 2](https://github.com/ColorlibHQ/AdminLTE/releases/tag/v2.4.18)
-- [AdminLTE 1](https://github.com/ColorlibHQ/AdminLTE/releases/tag/1.3.1)
-
-Change log
-----------
-Visit the [releases](https://github.com/ColorlibHQ/AdminLTE/releases) page to view the changelog
-
-Image Credits
--------------
-[Pixeden](http://www.pixeden.com/psd-web-elements/flat-responsive-showcase-psd)
-
-[Graphicsfuel](http://www.graphicsfuel.com/2013/02/13-high-resolution-blur-backgrounds/)
-
-[Pickaface](http://pickaface.net/)
-
-[Unsplash](https://unsplash.com/)
-
-[Uifaces](http://uifaces.com/)
